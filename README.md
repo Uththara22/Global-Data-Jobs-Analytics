@@ -43,7 +43,7 @@ The final production model enables stakeholders to interactively query and analy
 * **Data Cleaning & Formatting:** Groomed data by removing redundancies, resolving inconsistencies, and standardizing data types across all imported datasets for consistent integration.
 
 ### 2. Data Modeling & Architecture
-* **Star Schema Integration:** Architected the model using a pre-structured Star Schema approach, ensuring a clean, high-performance separation between fact and dimension tables.
+* **Star Schema Integration:** Leveraged a pre-structured Star Schema framework and extended the model with custom dimension tables to ensure efficient, high-performance data relationships.
 * **Relationship Mapping:** Configured relationships to ensure seamless cross-filtering and accurate data propagation across the reporting model.
 * **Model Responsiveness:** Optimized the structural hierarchy and data types within the model to guarantee high performance and fast interactivity during report usage.
 
